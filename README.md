@@ -2,6 +2,7 @@
 
 A collection of simple, purposeful Python mini projects — built for learning, curiosity, and quiet creativity.
 
+
 ✨ Features
 
 Each project in this repository is small, independent, and designed to be:
@@ -11,6 +12,7 @@ Each project in this repository is small, independent, and designed to be:
 🪶 Lightweight and dependency-free (mostly)
 
 📚 Helpful for building real-world coding habits.
+
 
 📁 Projects
 #	Project	Summary
@@ -34,7 +36,9 @@ Each project in this repository is small, independent, and designed to be:
 
 10	Expense Tracker -	Keep track of your daily spending.
 
+
 ✨ More projects coming soon! Feel free to contribute your own ideas.
+
 
 ⚙️ Getting Started
 
@@ -42,13 +46,16 @@ Clone this repository:
 
 git clone https://github.com/yourusername/python-mini-projects.git
 
+
 Run a project:
 
 python project_name.py
 
+
 Install optional dependencies (if needed):
 
 pip install -r requirements.txt
+
 
 🧰 Tools & Technologies
 
@@ -57,6 +64,7 @@ Language: Python 3.x
 Libraries: requests, tkinter, pandas, BeautifulSoup, random, os, datetime
 
 Environment: Works on Windows, macOS, and Linux
+
 
 🤝 Contributing
 
@@ -86,11 +94,13 @@ Small things done consistently create big change.
 
 Each project here is a quiet step toward mastery.
 
+
 🌿 Author
 
 Srishti Sah
 
 “I build small things that feel alive.”
+
 
 📜 License
 

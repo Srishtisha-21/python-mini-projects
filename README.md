@@ -7,14 +7,15 @@ A collection of simple, purposeful Python mini projects — built for learning, 
 
 Each project in this repository is small, independent, and designed to be:
 
-🧩 Understandable at a glance
+  🧩 Understandable at a glance
 
-🪶 Lightweight and dependency-free (mostly)
+  🪶 Lightweight and dependency-free (mostly)
 
-📚 Helpful for building real-world coding habits.
+  📚 Helpful for building real-world coding habits.
 
 
 📁 Projects
+
 #	Project	Summary
 01	Guess the Number	- A friendly guessing game using random numbers.
 
@@ -37,7 +38,7 @@ Each project in this repository is small, independent, and designed to be:
 10	Expense Tracker -	Keep track of your daily spending.
 
 
-✨ More projects coming soon! Feel free to contribute your own ideas.
+  ✨ More projects coming soon! Feel free to contribute your own ideas.
 
 
 ⚙️ Getting Started
@@ -90,16 +91,16 @@ Please make sure each project:
 
 🪴 Philosophy
 
-Small things done consistently create big change.
+  Small things done consistently create big change.
 
-Each project here is a quiet step toward mastery.
+  Each project here is a quiet step toward mastery.
 
 
 🌿 Author
 
-Srishti Sah
+  Srishti Sah
 
-“I build small things that feel alive.”
+   “I build small things that feel alive.”
 
 
 📜 License

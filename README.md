@@ -21,21 +21,7 @@ Each project in this repository is small, independent, and designed to be:
 
 02	Password Generator	- Create secure passwords in one click.
 
-03	To-Do List -	Simple task tracker in the terminal.
 
-04	Weather App -	Get live weather data from an API.
-
-05	File Organizer -	Automatically sort files by type.
-
-06	Tic-Tac-Toe -	Classic console game with clean logic.
-
-07	Quiz App -	Interactive quiz with instant scoring.
-
-08	Web Scraper -	Collect information from any webpage.
-
-09	Alarm Clock -	Schedule a sound alert at a set time.
-
-10	Expense Tracker -	Keep track of your daily spending.
 
 
   ✨ More projects coming soon! Feel free to contribute your own ideas.
